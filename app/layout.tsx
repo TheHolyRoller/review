@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
+// import 'antd/dist/antd.css';  // Import Ant Design styles globally
+
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
