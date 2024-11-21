@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@ant-design/icons": "^5.5.1",
+    "@formspark/formtrack": "^0.1.36",
     "@radix-ui/react-label": "^2.1.0",
     "@tabler/icons-react": "^3.22.0",
     "class-variance-authority": "^0.7.0",
@@ -19,10 +20,12 @@
     "next": "15.0.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0",
     "tailwind-merge": "^2.5.4",
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
+    "@formspark/use-formspark": "^0.1.39",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",

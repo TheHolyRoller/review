@@ -11,8 +11,8 @@ export default function Home() {
         <App/> 
         {/* Add in the contact form here  */}
 
-        <SignupFormDemo/> 
-        
+        {/* <SignupFormDemo/>  */}
+
 
 
     </div>

@@ -1,0 +1,84 @@
+.ratingContainer{
+
+
+    padding-top: 20vh; 
+
+
+
+}
+
+
+
+.starContainer{
+
+
+
+
+
+}
+
+
+.signUpForm{
+
+
+    padding-top: 70vh;
+
+
+
+}
+
+
+
+@media(max-width: 900px){
+
+    .ratingContainer{
+
+
+    
+    
+    }
+    
+    
+    
+    .starContainer{
+    
+    
+        padding-top: 9vh;
+    
+    
+    }
+    
+    
+    .signUpForm{
+    
+    padding-top: 39vh;
+    
+    
+    
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
