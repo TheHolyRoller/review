@@ -19,7 +19,7 @@ const App: React.FC = () => {
     <div className={r.ratingContainer}>
 
         {/* Add in the Headline here  */}
-    <h1 style={{outline: ''}} >We would love to hear your Feedback </h1>
+    {/* <h1 style={{outline: ''}} >We would love to hear your Feedback </h1> */}
 
       <div className={r.starContainer}>
         {/* Disable Rate component if value is set */}
@@ -36,6 +36,7 @@ const App: React.FC = () => {
       <style jsx>{`
         .hidden {
           display: none;
+
         }
         .visible {
           display: block;
